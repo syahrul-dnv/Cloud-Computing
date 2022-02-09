@@ -6,8 +6,6 @@ Daripada menyimpan banyak file di hard drive atau penyimpanan lokal di komputer 
 
 Cloud computing merupakan opsi yang populer karena memiliki banyak keuntungan, seperti irit biaya, meningkatkan produktivitas, kecepatan, efisiensi, performa, dan keamanan. Maka itu, tak heran banyak perusahaan atau orang-orang yang menggunakan cloud untuk menyimpan data.
 
-Kali ini Indonesian Cloud akan berbagi kepada clouder’s tentang apa itu cloud computing.
-
 ## Memahami lebih jauh tentang cloud computing
 Dinamakan cloud computing karena informasi yang diakses secara remote di “awan” atau ruangan virtual. Perusahaan-perusahaan yang menyediakan layanan cloud, memungkinkan para penggunanya menyimpan file dan aplikasi dari server jarak jauh. Mereka juga bisa mengaksesnya asalkan ada sambungan internet. Ini berarti, seorang pengguna tidak perlu berada di tempat tertentu untuk mendapatkan akses file-nya.
 
@@ -48,5 +46,17 @@ Cloud membuat para karyawan bisa menghemat ruang penyimpanan di laptop atau komp
 
 Contohnya Adobe, penggunanya bisa mengakses aplikasi melalui Cretive Cloud dengan model subscription. Ini memungkinkan penggunanya mengunduh versi terbaru dan memperbaiki program lebih mudah.
 
-Anda dapat membaca artikel kami lebih lanjut mengenai ini >> Keuntungan dan Kelemahan Cloud Computing Untuk Infrastruktur IT Perusahaan
+Cloud computing dari sisi bisnis
+Untuk pindah ke sistem cloud, hal pertama yang harus dilakukan adalah untuk segera menghitung nilai infrastruktur IT yang Anda punya. Ada banyak faktor seperti biaya memelihara data center, biaya sewa, harga hardware serta software, spesifikasi CPU, RAM, dan lain-lain. Harus dipirkirkan juga apakah Anda akan membuangnya atau membangun ulang untuk cloud dan paket SaaS. Setiap opsi memiliki ongkosnya masing-masing. Menggunakan cloud juga harus menghitung biaya karyawan tambahan, misalnya.  
+
+Bisnis bisa menggunakan cloud computing dengan cara yang berbeda. Beberapa pengguna membiarkan seluruh aplikasi atau datanya di cloud, sementara ada juga yang menggunakan model hybrid, yang berarti hanya beberapa aplikasi atau data di private server, sementara sisanya di public cloud.
+
+Beberapa penyedia layanan cloud yang populer di Indonesia adalah:
+
+  <ul>Indonesian Cloud</ul>
+  <ul>Amazon Web Services (AWS)</ul>
+  <ul>Microsoft Azure</ul>
+  <ul>IBM Cloud</ul>
+  <ul>Alibaba Cloud</ul>
+
 
