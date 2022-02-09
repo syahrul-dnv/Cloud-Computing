@@ -1,5 +1,7 @@
-# Cloud Computing!
+<img src="https://drive.google.com/uc?export=view&id=1EpUxs4Owpi5VwIa9m70mRLFJee6CDDly">
 
+
+# Cloud Computing!
 Sederhananya, cloud computing (komputasi awan) adalah metode penyampaian berbagai layanan melalui internet. Sumber daya yang dimaksud contohnya adalah aplikasi seperti penyimpanan data, server, database, jaringan, dan perangkat lunak.
 
 Daripada menyimpan banyak file di hard drive atau penyimpanan lokal di komputer atau handphone, penyimpanan berbasis cloud memungkinkan Anda menyimpan file selama Anda memiliki akses ke internet.
@@ -37,6 +39,7 @@ Sumber daya yang dikumpulkan ini diatur agar bisa fleksibel, sehingga para pengg
 
 Penggunaan sumber daya berbasis on-demand ini menawarkan skalabilitas dan fleksibilitas yang hampir tidak terbatas. Pasalnya, kebutuhan Anda akan cloud computing senantiasa berubah atau dinamis.
 
+<img src="https://drive.google.com/uc?export=view&id= (masukan id tersebut)">
 ## Keuntungan menggunakan cloud computing
 Cloud computing bukan sekadar bisa mengakses file secara remote. Berkat cloud computing, penggunanya dapat mengecek email di komputer mana pun, atau bahkan menyimpan serta mengakses file dari mana pun seperti Dropbox atau Google Drive.
 
