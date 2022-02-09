@@ -53,10 +53,10 @@ Bisnis bisa menggunakan cloud computing dengan cara yang berbeda. Beberapa pengg
 
 Beberapa penyedia layanan cloud yang populer di Indonesia adalah:
 
-  <ul>Indonesian Cloud</ul>
-  <ul>Amazon Web Services (AWS)</ul>
-  <ul>Microsoft Azure</ul>
-  <ul>IBM Cloud</ul>
-  <ul>Alibaba Cloud</ul>
+  <li>Indonesian Cloud</li>
+  <li>Amazon Web Services (AWS)</li>
+  <li>Microsoft Azure</li>
+  <li>IBM Cloud</li>
+  <li>Alibaba Cloud</li>
 
 
