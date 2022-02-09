@@ -16,11 +16,11 @@ Cloud computing bisa bersifat public atau private. Public cloud menyediakan laya
 Contoh pemanfaatan cloud computing
 Terlepas dari bermacam layanannya, cloud computing memberikan penggunanya serangkaian fungsi, seperti:
 
-Email contohnya layanan Zimbra Mail
-Penyimpanan, backup, pengambilan data
-Membuat dan mengetes aplikasi
-Menganalisis data
-Streaming audio dan video
+<li>Email contohnya layanan Zimbra Mail</li>
+<li>Penyimpanan, backup, pengambilan data</li>
+<li>Membuat dan mengetes aplikasi</li>
+<li>Menganalisis data</li>
+<li>Streaming audio dan video, dll</li>
 
 Cloud computing terbilang layanan yang relatif baru, tapi sudah digunakan oleh beragam perusahaan mulai dari yang kecil hingga korporasi besar, perusahaan atau kementerian pemerintah, bahkan pengguna individu.
 
