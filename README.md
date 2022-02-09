@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1EpUxs4Owpi5VwIa9m70mRLFJee6CDDly">
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1EpUxs4Owpi5VwIa9m70mRLFJee6CDDly"></p>
 
 
 # Cloud Computing!
