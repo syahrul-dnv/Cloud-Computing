@@ -45,17 +45,20 @@ Sumber daya yang dikumpulkan ini diatur agar bisa fleksibel, sehingga para pengg
 
 Penggunaan sumber daya berbasis on-demand ini menawarkan skalabilitas dan fleksibilitas yang hampir tidak terbatas. Pasalnya, kebutuhan Anda akan cloud computing senantiasa berubah atau dinamis.
 
-<img src="https://drive.google.com/uc?export=view&id=1Yi11yTo0UBbGa-dB8IQU4cTGK-Z3wKvN">
+<p><img src="https://drive.google.com/uc?export=view&id=1Yi11yTo0UBbGa-dB8IQU4cTGK-Z3wKvN"></p>
+
 ## Keuntungan menggunakan cloud computing
+
 Cloud computing bukan sekadar bisa mengakses file secara remote. Berkat cloud computing, penggunanya dapat mengecek email di komputer mana pun, atau bahkan menyimpan serta mengakses file dari mana pun seperti Dropbox atau Google Drive.
 
 Maka itu, perusahaan-perusahaan yang menggunakan cloud dapat memangkas biaya secara signifikan. Sebelum adanya cloud, perusahaan harus membeli, memiliki, membangun manajemen informasi teknologi (IT) mereka sendiri. Sebaliknya, dengan adanya cloud, perusahaan hanya membutuhkan pusat server dan divisi IT agar memastikan internet yang dimiliki cepat dan stabil, agar karyawannya bisa berinteraksi dengan cloud secara online.
 
 Cloud membuat para karyawan bisa menghemat ruang penyimpanan di laptop atau komputer. Saat ada perangkat lunak atau program yang membutuhkan update, tinggal download saja tanpa menggunakan cara tradisional seperti menggunakan disc atau flash drive. 
 
-Contohnya Adobe, penggunanya bisa mengakses aplikasi melalui Cretive Cloud dengan model subscription. Ini memungkinkan penggunanya mengunduh versi terbaru dan memperbaiki program lebih mudah.
+Contohnya <b>Adobe</b>, penggunanya bisa mengakses aplikasi melalui Cretive Cloud dengan model subscription. Ini memungkinkan penggunanya mengunduh versi terbaru dan memperbaiki program lebih mudah.
 
-Cloud computing dari sisi bisnis
+## Cloud computing dari sisi bisnis
+
 Untuk pindah ke sistem cloud, hal pertama yang harus dilakukan adalah untuk segera menghitung nilai infrastruktur IT yang Anda punya. Ada banyak faktor seperti biaya memelihara data center, biaya sewa, harga hardware serta software, spesifikasi CPU, RAM, dan lain-lain. Harus dipirkirkan juga apakah Anda akan membuangnya atau membangun ulang untuk cloud dan paket SaaS. Setiap opsi memiliki ongkosnya masing-masing. Menggunakan cloud juga harus menghitung biaya karyawan tambahan, misalnya.  
 
 Bisnis bisa menggunakan cloud computing dengan cara yang berbeda. Beberapa pengguna membiarkan seluruh aplikasi atau datanya di cloud, sementara ada juga yang menggunakan model hybrid, yang berarti hanya beberapa aplikasi atau data di private server, sementara sisanya di public cloud.
