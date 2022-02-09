@@ -20,7 +20,8 @@ Terlepas dari bermacam layanannya, cloud computing memberikan penggunanya serang
 <li>Penyimpanan, backup, pengambilan data</li>
 <li>Membuat dan mengetes aplikasi</li>
 <li>Menganalisis data</li>
-<li>Streaming audio dan video, dll</li>
+<li>Streaming audio dan video, dll </li><br>
+
 
 Cloud computing terbilang layanan yang relatif baru, tapi sudah digunakan oleh beragam perusahaan mulai dari yang kecil hingga korporasi besar, perusahaan atau kementerian pemerintah, bahkan pengguna individu.
 
@@ -29,10 +30,13 @@ Tak hanya itu, cloud computing juga memiliki layanan seperti pemrosesan bahasa, 
 ## Tipe cloud computing berdasarkan layanannya
 Cloud computing bukanlah satu bagian dari teknologi seperti microchip atau telepon genggam. Sebaliknya, ini merupakan sebuah sistem yang utamanya terdiri dari tiga layanan: software-as-a-service (SaaS), infrastructure-as-a-service (IaaS), dan platform-as-a-service (PaaS).
 
-Software-as-a-service (SaaS) melibatkan suatu lisensi aplikasi perangkat lunak kepada penggunanya. Lisensi ini biasanya diberikan melalui metode pay-as-you-go atau on-demand. Tipe seperti ini bisa ditemukan di Microsoft Office’s 365
-Infrastructure-as-a-service (IaaS) melibatkan metode untuk mengirimkan suatu file dari sistem operasi ke server dan penyimpanan, melalui konektivitas berbasis IP sebagai bagian dari layanan on-demand. Klien jadi tidak perlu membeli perangkat lunak atau server. Contoh populer dari tipe ini adalah Public Cloud dari Indonesian Cloud dan Microsoft Azure.
-Platform-as-a-service (PaaS) disebut-sebut sebagai yang paling kompleks. PaaS hampir mirip dengan SaaS, tapi perbedaan paling besarnya adalah, alih-alih mengirim suatu perangkat lunak via online, PaaS sebenarnya adalah platform untuk membuat perangkat lunak yang dikirimkan melalui internet. Contoh dari PaaS seperti Salesforce.com dan Heroku.
-Cara kerja cloud computing
+<b> 1. Software-as-a-service (SaaS)</b> melibatkan suatu lisensi aplikasi perangkat lunak kepada penggunanya. Lisensi ini biasanya diberikan melalui metode pay-as-you-go atau on-demand. Tipe seperti ini bisa ditemukan di Microsoft Office’s 365.
+
+<b>2. Infrastructure-as-a-service (IaaS)</b> melibatkan metode untuk mengirimkan suatu file dari sistem operasi ke server dan penyimpanan, melalui konektivitas berbasis IP sebagai bagian dari layanan on-demand. Klien jadi tidak perlu membeli perangkat lunak atau server. Contoh populer dari tipe ini adalah Public Cloud dari Indonesian Cloud dan Microsoft Azure.
+
+<b>3. Platform-as-a-service (PaaS)</b> disebut-sebut sebagai yang paling kompleks. PaaS hampir mirip dengan SaaS, tapi perbedaan paling besarnya adalah, alih-alih mengirim suatu perangkat lunak via online, PaaS sebenarnya adalah platform untuk membuat perangkat lunak yang dikirimkan melalui internet. Contoh dari PaaS seperti Salesforce.com dan Heroku.
+
+## Cara kerja cloud computing
 Setiap varian cloud computing memiliki dua faktor yang sama secara umum, yakni data center yang berada di luar dan harus memiliki internet untuk mengaksesnya. Sumber daya server dalam data center ini dikumpulkan untuk membuat platform yang sangat besar agar siap menampung layanan virtual.
 
 Sumber daya yang dikumpulkan ini diatur agar bisa fleksibel, sehingga para penggunanya bisa mengakses lebih banyak ruang penyimpanan jika diperlukan. Demikian pula dengan sumber daya yang sedang tidak digunakan, ini akan dilepas kembali ke cloud jika memang sudah tidak lagi dibutuhkan.
