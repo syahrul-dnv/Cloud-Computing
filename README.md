@@ -45,7 +45,7 @@ Sumber daya yang dikumpulkan ini diatur agar bisa fleksibel, sehingga para pengg
 
 Penggunaan sumber daya berbasis on-demand ini menawarkan skalabilitas dan fleksibilitas yang hampir tidak terbatas. Pasalnya, kebutuhan Anda akan cloud computing senantiasa berubah atau dinamis.
 
-<p><img src="https://drive.google.com/uc?export=view&id=1Yi11yTo0UBbGa-dB8IQU4cTGK-Z3wKvN"></p>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1Yi11yTo0UBbGa-dB8IQU4cTGK-Z3wKvN"></p>
 
 ## Keuntungan menggunakan cloud computing
 
