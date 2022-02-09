@@ -22,6 +22,8 @@ Terlepas dari bermacam layanannya, cloud computing memberikan penggunanya serang
 <li>Menganalisis data</li>
 <li>Streaming audio dan video, dll </li><br>
 
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1Y4eR9Fr33J3dQ5okkv9Az3AxNbUyzPhu"></p>
+
 
 Cloud computing terbilang layanan yang relatif baru, tapi sudah digunakan oleh beragam perusahaan mulai dari yang kecil hingga korporasi besar, perusahaan atau kementerian pemerintah, bahkan pengguna individu.
 
@@ -43,7 +45,7 @@ Sumber daya yang dikumpulkan ini diatur agar bisa fleksibel, sehingga para pengg
 
 Penggunaan sumber daya berbasis on-demand ini menawarkan skalabilitas dan fleksibilitas yang hampir tidak terbatas. Pasalnya, kebutuhan Anda akan cloud computing senantiasa berubah atau dinamis.
 
-<img src="https://drive.google.com/uc?export=view&id= (masukan id tersebut)">
+<img src="https://drive.google.com/uc?export=view&id=1Yi11yTo0UBbGa-dB8IQU4cTGK-Z3wKvN">
 ## Keuntungan menggunakan cloud computing
 Cloud computing bukan sekadar bisa mengakses file secara remote. Berkat cloud computing, penggunanya dapat mengecek email di komputer mana pun, atau bahkan menyimpan serta mengakses file dari mana pun seperti Dropbox atau Google Drive.
 
